@@ -14,7 +14,7 @@ A complete item description for item 0: (name[0], prices[0], weight[0] is (ball,
 
 	Name	Price	Weight
 	ball	2		2
-	bat		3		5
+	bat	3		5
 	glove	1		1
 	glove	2		1
 	glove	1		1
