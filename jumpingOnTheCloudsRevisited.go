@@ -79,5 +79,5 @@ func main() {
 		ar = append(ar, element)
 	}
 
-	fmt.Println(jumpingOnClouds(ar, k))
+	fmt.Println(jumpingOnClouds(ar))
 }
