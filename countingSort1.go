@@ -78,7 +78,7 @@ package main
 
 import "fmt"
 
-func countingSort(arr []int32) []int32 {
+func countingSort1(arr []int32) []int32 {
 	// Write your code here
 	frequency := make([]int32, 100)
 
@@ -99,5 +99,5 @@ func main() {
 		ar = append(ar, element)
 	}
 
-	fmt.Println(countingSort(ar))
+	fmt.Println(countingSort1(ar))
 }
