@@ -93,7 +93,7 @@ func appendAndDelete(s string, t string, k int32) string {
 	}
 }
 
-func main() {
+func AppendAndDelete() {
 	var s, t string
 	var k int32
 

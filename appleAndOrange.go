@@ -89,7 +89,7 @@ func countApplesAndOranges(s int32, t int32, a int32, b int32, apples []int32, o
 	fmt.Println(count_b)
 }
 
-func main() {
+func CountApplesAndOranges() {
 	var s, t, a, b, element int32
 	var m, n int
 	var apples, oranges []int32 = []int32{}, []int32{}

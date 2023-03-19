@@ -48,7 +48,7 @@ func squares(a int32, b int32) int32 {
 	}
 }
 
-func main() {
+func Squares() {
 	var a, b int32
 
 	fmt.Scanf("%v\n", &a)

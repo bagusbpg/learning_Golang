@@ -59,7 +59,7 @@ func fairRations(B []int32) string {
 	return fmt.Sprint(count)
 }
 
-func main() {
+func FairRations() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

@@ -46,7 +46,7 @@ func camelcase(s string) int32 {
 	return count
 }
 
-func main() {
+func Camelcase() {
 	var s string
 
 	fmt.Scanf("%v\n", &s)

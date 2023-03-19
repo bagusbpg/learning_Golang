@@ -54,7 +54,7 @@ func hurdleRace(k int32, height []int32) int32 {
 
 }
 
-func main() {
+func HurdleRace() {
 	var n int
 	var element, k int32
 	var ar []int32 = []int32{}

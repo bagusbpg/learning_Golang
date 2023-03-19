@@ -89,7 +89,7 @@ func countingSort1(arr []int32) []int32 {
 	return frequency
 }
 
-func main() {
+func CountingSort1() {
 	var n, element int32
 	var ar []int32 = []int32{}
 

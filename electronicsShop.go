@@ -58,7 +58,7 @@ func getMoneySpent(keyboards []int32, drives []int32, b int32) int32 {
 	return greatest
 }
 
-func main() {
+func GetMoneySpent() {
 	var b, element int32
 	var n, m int
 	var keyboards, drives []int32 = []int32{}, []int32{}

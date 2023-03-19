@@ -83,7 +83,7 @@ func numDuplicates(name []string, price []int32, weight []int32) int32 {
 	return count
 }
 
-func main() {
+func NumDuplicates() {
 	var n int
 	var name string
 	var price, weight int32

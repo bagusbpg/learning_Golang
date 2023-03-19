@@ -52,7 +52,7 @@ func firstOccurrence(s string, x string) int32 {
 	}
 }
 
-func main() {
+func FirstOccurrence() {
 	var s, x string
 
 	fmt.Scanf("%v\n", &s)

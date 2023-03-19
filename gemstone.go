@@ -87,7 +87,7 @@ func gemstones(arr []string) int32 {
 	return numberOfGemstone
 }
 
-func main() {
+func GemStones() {
 	var n int
 	var s string
 	var ar []string

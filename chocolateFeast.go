@@ -58,7 +58,7 @@ func chocolateFeast(n int32, c int32, m int32) int32 {
 	return bars
 }
 
-func main() {
+func ChocolateFeast() {
 	var n, c, m int32
 
 	fmt.Scanf("%v\n", &n)

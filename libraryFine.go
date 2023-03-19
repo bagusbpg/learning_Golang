@@ -67,7 +67,7 @@ func libraryFine(d1 int32, m1 int32, y1 int32, d2 int32, m2 int32, y2 int32) int
 	}
 }
 
-func main() {
+func LibraryFine() {
 	var d1, m1, y1, d2, m2, y2 int32
 
 	fmt.Scanf("%v\n", &d1)

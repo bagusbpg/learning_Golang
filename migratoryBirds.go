@@ -76,7 +76,7 @@ func migratoryBirds(arr []int32) int32 {
 	return lowest
 }
 
-func main() {
+func MigratoryBids() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

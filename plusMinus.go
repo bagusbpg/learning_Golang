@@ -63,7 +63,7 @@ func plusMinus(arr []int32) {
 	fmt.Println(zero / length)
 }
 
-func main() {
+func PlusMinus() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

@@ -88,7 +88,7 @@ func anagram(s string) int32 {
 	return count
 }
 
-func main() {
+func Anagram() {
 	var s string
 
 	fmt.Scanf("%v\n", &s)

@@ -115,7 +115,7 @@ func runningTime(arr []int32) int32 {
 	return totalShift
 }
 
-func main() {
+func RunningTime() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

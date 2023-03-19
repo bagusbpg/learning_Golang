@@ -59,7 +59,7 @@ func strangeCounter(t int64) int64 {
 	return counter + 1 - t
 }
 
-func main() {
+func StrangeCounter() {
 	var t int64
 
 	fmt.Scanf("%v\n", &t)

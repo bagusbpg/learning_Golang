@@ -103,7 +103,7 @@ func cavityMap(grid []string) []string {
 	return result
 }
 
-func main() {
+func CavityMap() {
 	var n int
 	var element string
 	var ar []string = []string{}

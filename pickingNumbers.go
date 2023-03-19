@@ -68,7 +68,7 @@ func pickingNumbers(a []int32) int32 {
 	return longest
 }
 
-func main() {
+func PickingNumbers() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

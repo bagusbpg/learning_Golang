@@ -86,7 +86,7 @@ func funnyString(s string) string {
 	return "Funny"
 }
 
-func main() {
+func FunnyString() {
 	var n int
 	var s string
 	var ar []string

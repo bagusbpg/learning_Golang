@@ -60,7 +60,7 @@ func bigSorting(unsorted []string) []string {
 	return result
 }
 
-func main() {
+func BigSorting() {
 	var n int
 	var element string
 	var ar []string = []string{}

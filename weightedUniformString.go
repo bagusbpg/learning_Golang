@@ -180,7 +180,7 @@ func weightedUniformStrings(s string, queries []int32) []string {
 	return result
 }
 
-func main() {
+func WeightedUniformStrings() {
 	var s string
 	var n int
 	var element int32

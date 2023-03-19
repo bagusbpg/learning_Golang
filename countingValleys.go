@@ -58,7 +58,7 @@ func countingValleys(steps int32, path string) int32 {
 	return count
 }
 
-func main() {
+func CountingValleys() {
 	var steps int32
 	var path string
 

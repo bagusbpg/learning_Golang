@@ -83,7 +83,7 @@ func minimumNumber(n int32, password string) int32 {
 	}
 }
 
-func main() {
+func MinimumNumber() {
 	var s string
 
 	fmt.Scanf("%v\n", &s)

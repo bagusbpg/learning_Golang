@@ -65,7 +65,7 @@ func cutTheSticks(arr []int32) []int32 {
 	return result
 }
 
-func main() {
+func CutTheSticks() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

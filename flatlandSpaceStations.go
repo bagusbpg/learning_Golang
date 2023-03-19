@@ -71,7 +71,7 @@ func flatlandSpaceStations(n int32, c []int32) int32 {
 	return int32(distance / 2)
 }
 
-func main() {
+func FlatlandSpaceStations() {
 	var n, k, element int32
 	var ar []int32
 

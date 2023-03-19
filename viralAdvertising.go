@@ -53,7 +53,7 @@ func viralAdvertising(n int32) int32 {
 	return total
 }
 
-func main() {
+func ViralAdvertising() {
 	var days int32
 
 	fmt.Scanf("%v\n", &days)

@@ -48,7 +48,7 @@ package main
 
 import "fmt"
 
-func jumpingOnClouds(c []int32, k int32) int32 {
+func jumpingOnCloudsRevisited(c []int32, k int32) int32 {
 	var position, energy int32 = k % int32(len(c)), 99
 
 	if c[position] == 1 {
@@ -67,7 +67,7 @@ func jumpingOnClouds(c []int32, k int32) int32 {
 	return energy
 }
 
-func main() {
+func JumpingOnCloudsRevisited() {
 	var n int
 	var element, k int32
 	var ar []int32 = []int32{}
@@ -79,5 +79,5 @@ func main() {
 		ar = append(ar, element)
 	}
 
-	fmt.Println(jumpingOnClouds(ar))
+	fmt.Println(jumpingOnCloudsRevisited(ar, k))
 }

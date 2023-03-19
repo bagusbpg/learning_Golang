@@ -65,7 +65,7 @@ func serviceLane(width []int32, cases [][]int32) []int32 {
 	return result
 }
 
-func main() {
+func ServiceLane() {
 	var n, t int
 	var element1, element2 int32
 	var width []int32 = []int32{}

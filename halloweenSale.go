@@ -62,7 +62,7 @@ func howManyGames(p int32, d int32, m int32, s int32) int32 {
 	return count
 }
 
-func main() {
+func HowManyGames() {
 	var p, d, m, s int32
 
 	fmt.Scanf("%v\n", &p)

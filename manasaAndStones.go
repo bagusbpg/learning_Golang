@@ -66,7 +66,7 @@ func stones(n int32, a int32, b int32) []int32 {
 	return result
 }
 
-func main() {
+func Stones() {
 	var n, a, b int32
 
 	fmt.Scanf("%v\n", &n)

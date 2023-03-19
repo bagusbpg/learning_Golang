@@ -53,7 +53,7 @@ func designerPdfViewer(h []int32, word string) int32 {
 	return highest * int32(len(word))
 }
 
-func main() {
+func DesignerPDFViewer() {
 	var ar []int32 = []int32{}
 	var element int32
 	var word string

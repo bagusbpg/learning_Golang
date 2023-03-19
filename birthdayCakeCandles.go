@@ -50,7 +50,7 @@ func birthdayCakeCandles(candles []int32) int32 {
 	return count
 }
 
-func main() {
+func BirthdayCakeCandles() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

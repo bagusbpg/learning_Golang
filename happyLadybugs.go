@@ -91,7 +91,7 @@ func happyLadybugs(b string) string {
 	return "YES"
 }
 
-func main() {
+func HappyLadyBugs() {
 	var b string
 
 	fmt.Scanf("%v\n", &b)

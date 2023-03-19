@@ -46,7 +46,7 @@ func superReducedString(s string) string {
 	return s
 }
 
-func main() {
+func SuperReducedString() {
 	var s string
 
 	fmt.Scanf("%v\n", &s)

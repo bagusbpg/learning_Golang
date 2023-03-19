@@ -55,7 +55,7 @@ func introTutorial(V int32, arr []int32) int32 {
 	return int32(index)
 }
 
-func main() {
+func IntroTutorial() {
 	var n int
 	var V, element int32
 	var ar []int32 = []int32{}

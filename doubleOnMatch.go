@@ -60,7 +60,7 @@ func doubleSize(arr []int64, b int64) int64 {
 	return b
 }
 
-func main() {
+func DoubleSize() {
 	var n int
 	var element, num int64
 	var ar []int64 = []int64{}

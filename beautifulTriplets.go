@@ -56,7 +56,7 @@ func beautifulTriplets(d int32, arr []int32) int32 {
 	return count
 }
 
-func main() {
+func BeautifulTriplets() {
 	var n int
 	var element, d int32
 	var ar []int32 = []int32{}

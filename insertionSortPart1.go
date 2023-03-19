@@ -83,7 +83,7 @@ func insertionSort1(n int32, arr []int32) {
 	}
 }
 
-func main() {
+func InsertionSort1() {
 	var n, element int32
 	var ar []int32 = []int32{}
 

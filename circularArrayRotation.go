@@ -59,7 +59,7 @@ func circularArrayRotation(a []int32, k int32, queries []int32) []int32 {
 	return result
 }
 
-func main() {
+func CircularArrayRotation() {
 	var n, q int
 	var element, k int32
 	var ar, queries []int32 = []int32{}, []int32{}

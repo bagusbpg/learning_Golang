@@ -56,7 +56,7 @@ func timeConversion(s string) string {
 	return time
 }
 
-func main() {
+func TimeConversion() {
 	var s string
 
 	fmt.Scanf("%s\n", &s)

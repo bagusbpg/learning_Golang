@@ -61,7 +61,7 @@ func taumBday(b int32, w int32, bc int32, wc int32, z int32) int64 {
 	return cost
 }
 
-func main() {
+func TaumBday() {
 	var b, w, bc, wc, z int32
 
 	fmt.Scanf("%v\n", &b)

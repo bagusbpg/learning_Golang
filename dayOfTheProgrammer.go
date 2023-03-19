@@ -73,7 +73,7 @@ func dayOfProgrammer(year int32) string {
 	}
 }
 
-func main() {
+func DayOfProgrammer() {
 	var year int32
 
 	fmt.Scanf("%v\n", &year)

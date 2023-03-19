@@ -57,7 +57,7 @@ func equalizeArray(arr []int32) int32 {
 	return deletions
 }
 
-func main() {
+func EqualizeArray() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

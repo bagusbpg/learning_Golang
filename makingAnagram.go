@@ -71,7 +71,7 @@ func makingAnagrams(s1 string, s2 string) int32 {
 	return int32(len(s1) + len(s2))
 }
 
-func main() {
+func MakingAnagrams() {
 	var s1, s2 string
 
 	fmt.Scanf("%v\n", &s1)

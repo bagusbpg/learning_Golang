@@ -59,7 +59,7 @@ func angryProfessor(k int32, ar []int32) string {
 	}
 }
 
-func main() {
+func AngryProfessor() {
 	var n int
 	var element, k int32
 	var ar []int32 = []int32{}

@@ -98,7 +98,7 @@ func quickSort(arr []int32) []int32 {
 	return left
 }
 
-func main() {
+func QuickSort() {
 	var n, element int32
 	var ar []int32 = []int32{}
 

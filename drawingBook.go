@@ -51,7 +51,7 @@ func pageCount(n int32, p int32) int32 {
 	}
 }
 
-func main() {
+func PageCount() {
 	var n, p int32
 
 	fmt.Scanf("%v\n", &n)

@@ -59,7 +59,7 @@ func jumpingOnClouds(c []int32) int32 {
 	return jump
 }
 
-func main() {
+func JumpingOnClouds() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

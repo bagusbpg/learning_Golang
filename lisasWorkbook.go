@@ -74,7 +74,7 @@ func workbook(n int32, k int32, arr []int32) int32 {
 	return count
 }
 
-func main() {
+func Workbook() {
 	var n, k, element int32
 	var ar []int32 = []int32{}
 

@@ -89,7 +89,7 @@ func getTotalX(a []int32, b []int32) int32 {
 	return count
 }
 
-func main() {
+func GetTotalX() {
 	var n, m int
 	var element int32
 	var ar1, ar2 []int32 = []int32{}, []int32{}

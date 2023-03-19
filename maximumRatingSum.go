@@ -63,7 +63,7 @@ func maximumSum(arr []int32) int64 {
 	return greatest
 }
 
-func main() {
+func MaximumSum() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

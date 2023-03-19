@@ -59,7 +59,7 @@ func minimumDistances(a []int32) int32 {
 	}
 }
 
-func main() {
+func MinimumDistances() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

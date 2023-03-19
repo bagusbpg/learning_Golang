@@ -47,7 +47,7 @@ func staircase(n int32) {
 	}
 }
 
-func main() {
+func Staircase() {
 	var n int32
 
 	fmt.Scanf("%v\n", &n)

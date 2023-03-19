@@ -50,7 +50,7 @@ func utopianTree(n int32) int32 {
 	return height
 }
 
-func main() {
+func UtopianTree() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

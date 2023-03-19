@@ -36,7 +36,7 @@ func aVeryBigSum(ar []int64) int64 {
 	return sum
 }
 
-func main() {
+func AVeryBigSum() {
 	var n int
 	var element int64
 	var ar []int64 = []int64{}

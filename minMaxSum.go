@@ -34,7 +34,7 @@ package main
 
 import "fmt"
 
-func miniMaxSum(arr []int32) {
+func minMaxSum(arr []int32) {
 	// Write your code here
 	var smallest, greatest, sum int64 = int64(arr[0]), int64(arr[0]), 0
 
@@ -56,7 +56,7 @@ func miniMaxSum(arr []int32) {
 	fmt.Printf("%v %v\n", (sum - greatest), (sum - smallest))
 }
 
-func main() {
+func MinMaxSum() {
 	var element int32
 	var ar []int32 = []int32{}
 
@@ -65,5 +65,5 @@ func main() {
 		ar = append(ar, element)
 	}
 
-	miniMaxSum(ar)
+	minMaxSum(ar)
 }

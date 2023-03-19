@@ -48,7 +48,7 @@ func diagonalDifference(ar [][]int32) int32 {
 	return difference
 }
 
-func main() {
+func DiagonalDifference() {
 	var n int
 	var element int32
 	var ar [][]int32 = [][]int32{{}, {}, {}}

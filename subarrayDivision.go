@@ -58,7 +58,7 @@ func birthday(s []int32, d int32, m int32) int32 {
 	return count
 }
 
-func main() {
+func Birthday() {
 	var n int
 	var element, d, m int32
 	var ar []int32 = []int32{}

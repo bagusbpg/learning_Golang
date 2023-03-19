@@ -74,7 +74,7 @@ func funWithAnagrams(texts []string) []string {
 	return result
 }
 
-func main() {
+func FunWithAnagrams() {
 	var n int
 	var element string
 	var ar []string = []string{}

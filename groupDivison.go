@@ -63,7 +63,7 @@ func groupDivision(levels []int32, maxSpread int32) int32 {
 	return int32(len(group))
 }
 
-func main() {
+func GroupDivision() {
 	var n int
 	var element, maxSpread int32
 	var ar []int32 = []int32{}

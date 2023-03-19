@@ -47,7 +47,7 @@ func findDigits(n int32) int32 {
 	return count
 }
 
-func main() {
+func FindDigits() {
 	var n int32
 
 	fmt.Scanf("%v\n", &n)

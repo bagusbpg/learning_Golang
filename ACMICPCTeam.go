@@ -81,7 +81,7 @@ func acmTeam(topic []string) []int32 {
 	return []int32{greatest, mapTopic[greatest]}
 }
 
-func main() {
+func ACMTeam() {
 	var n int
 	var element string
 	var ar []string = []string{}

@@ -91,7 +91,7 @@ func alternate(s string) int32 {
 	return longest
 }
 
-func main() {
+func Alternat() {
 	var s string
 
 	fmt.Scanf("%v\n", &s)

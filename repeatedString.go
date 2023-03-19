@@ -51,7 +51,7 @@ func repeatedString(s string, n int64) int64 {
 	return number
 }
 
-func main() {
+func RepeatedString() {
 	var s string
 	var n int64
 

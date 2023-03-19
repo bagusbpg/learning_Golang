@@ -82,7 +82,7 @@ func catAndMouse(x int32, y int32, z int32) string {
 	}
 }
 
-func main() {
+func CatAndMouse() {
 	var x, y, z int32
 
 	fmt.Scanf("%v\n", &x)

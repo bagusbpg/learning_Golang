@@ -26,7 +26,7 @@ func solveMeFirst(a uint32, b uint32) uint32 {
 	return (a + b)
 }
 
-func main() {
+func SolveMeFirst() {
 	var a, b, result uint32
 	fmt.Scanf("%v\n%v", &a, &b)
 	result = solveMeFirst(a, b)

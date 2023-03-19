@@ -35,7 +35,7 @@ func simpleArraySum(ar []int32) int32 {
 	return sum
 }
 
-func main() {
+func SimpleArraySum() {
 	var n int
 	var element int32
 	var ar []int32

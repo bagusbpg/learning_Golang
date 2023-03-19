@@ -64,7 +64,7 @@ func beautifulDays(i int32, j int32, k int32) int32 {
 	return count
 }
 
-func main() {
+func BeautifulDays() {
 	var start, end, k int32
 
 	fmt.Scanf("%v\n", &start)

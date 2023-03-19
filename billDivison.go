@@ -64,7 +64,7 @@ func bonAppetit(bill []int32, k int32, b int32) {
 	}
 }
 
-func main() {
+func BonAppetit() {
 	var n int
 	var element, k, b int32
 	var ar []int32 = []int32{}

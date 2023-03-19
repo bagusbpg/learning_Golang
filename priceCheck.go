@@ -62,7 +62,7 @@ func priceCheck(products []string, productPrices []float32, productSold []string
 	return count
 }
 
-func main() {
+func PriceCheck() {
 	var n, m int
 	var name string
 	var price float32

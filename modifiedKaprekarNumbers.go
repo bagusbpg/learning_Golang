@@ -80,7 +80,7 @@ func kaprekarNumbers(p int32, q int32) {
 	}
 }
 
-func main() {
+func KaprekarNumbers() {
 	var p, q int32
 
 	fmt.Scanf("%v\n", &p)

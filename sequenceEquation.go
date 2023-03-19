@@ -56,7 +56,7 @@ func permutationEquation(p []int32) []int32 {
 	return result
 }
 
-func main() {
+func PermutationEquation() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

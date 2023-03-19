@@ -97,7 +97,7 @@ func countingSort2(arr []int32) []int32 {
 	return result
 }
 
-func main() {
+func CountingSort2() {
 	var n, element int32
 	var ar []int32 = []int32{}
 

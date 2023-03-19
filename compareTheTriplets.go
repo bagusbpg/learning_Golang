@@ -58,7 +58,7 @@ func compareTriplets(a []int32, b []int32) []int32 {
 	return []int32{score_a, score_b}
 }
 
-func main() {
+func CompareTriplets() {
 	var score int32
 	var a, b []int32 = []int32{}, []int32{}
 

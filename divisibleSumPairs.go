@@ -46,7 +46,7 @@ func divisibleSumPairs(n int32, k int32, ar []int32) int32 {
 	return count
 }
 
-func main() {
+func DivisibleSumPairs() {
 	var n int
 	var k, element int32
 	var ar []int32 = []int32{}

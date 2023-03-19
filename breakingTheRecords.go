@@ -59,7 +59,7 @@ func breakingRecords(scores []int32) []int32 {
 	return []int32{count_most, count_least}
 }
 
-func main() {
+func BreakingRecords() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

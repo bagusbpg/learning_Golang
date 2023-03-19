@@ -130,7 +130,7 @@ func separateNumbers(s string) {
 	fmt.Println("NO")
 }
 
-func main() {
+func SeparateNumbers() {
 	var n int
 	var s string
 	var ar []string

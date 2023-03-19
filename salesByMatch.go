@@ -56,7 +56,7 @@ func sockMerchant(n int32, ar []int32) int32 {
 	return pair
 }
 
-func main() {
+func SockMerchant() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

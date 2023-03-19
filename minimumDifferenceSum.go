@@ -43,7 +43,7 @@ func minDiff(arr []int32) int32 {
 	return greatest - smallest
 }
 
-func main() {
+func MinDiff() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

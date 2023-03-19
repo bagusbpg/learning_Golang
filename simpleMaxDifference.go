@@ -75,7 +75,7 @@ func maxDifference(px []int32) int32 {
 	return greatest
 }
 
-func main() {
+func MaxDifference() {
 	var n int
 	var element int32
 	var ar []int32 = []int32{}

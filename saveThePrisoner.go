@@ -48,7 +48,7 @@ func saveThePrisoner(n int32, m int32, s int32) int32 {
 	return ((m-1)+(s-1))%n + 1
 }
 
-func main() {
+func SaveThePrisoner() {
 	var n, m, s int32
 
 	fmt.Scanf("%v\n", &n)
